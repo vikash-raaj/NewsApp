@@ -13,7 +13,7 @@ export default class ListThumbnailExample extends Component {
               </Left>
               <Body>
                 <Text>Aaj Tak</Text>
-                <Text note numberOfLines={2}> Its time ****to build a difference . .  </Text>
+                <Text note numberOfLines={2}> Its time to $$$$ build a difference . .  </Text>
               </Body>
               <Right>
                 <Button transparent>
