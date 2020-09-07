@@ -31,9 +31,9 @@ A smart news app built for every phone, everywhere
 
 <img width="839" alt="Screenshot 2020-09-07 at 11 29 21 PM" src="https://user-images.githubusercontent.com/30666070/92410732-a9700000-f162-11ea-9736-347b073d614a.png">
 
-<img width="435" alt="Screenshot 2020-09-07 at 11 35 37 PM" src="https://user-images.githubusercontent.com/30666070/92410927-767a3c00-f163-11ea-8e9c-5be3e15d1b16.png">
+<img width="410" alt="Screenshot 2020-09-07 at 11 35 37 PM" src="https://user-images.githubusercontent.com/30666070/92410927-767a3c00-f163-11ea-8e9c-5be3e15d1b16.png">
 
-<img width="446" alt="Screenshot 2020-09-07 at 11 42 48 PM" src="https://user-images.githubusercontent.com/30666070/92411053-f43e4780-f163-11ea-920e-abd48a6199b4.png">
+<img width="410" alt="Screenshot 2020-09-07 at 11 42 48 PM" src="https://user-images.githubusercontent.com/30666070/92411053-f43e4780-f163-11ea-920e-abd48a6199b4.png">
 
 
 
